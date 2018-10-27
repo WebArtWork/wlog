@@ -1,0 +1,16 @@
+{
+    "authors": [{
+        "name": "Honchar Denys",
+        "email": "crackeraki@gmail.com"
+    }],
+    "name": "wlogger",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webartwork/wlogger.git"
+    },
+
+    "description": "provide middleware for node app, which let you see which routes is called and other usefull things.",
+    "main": "./index.js",
+    "homepage": "https://github.com/webartwork/wlogger#readme",
+    "version": "1.0.0"
+}
